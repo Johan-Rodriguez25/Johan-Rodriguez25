@@ -1,14 +1,15 @@
 ```shell
 {
   “name” : “Johan Sebastian Rodriguez Fajardo”,
-  “role” : “Software Dev”,
+  “role” : “Software Dev and cybersecurity Student”,
   “data” : 
     { 
-      "Linkedin" : "https://www.linkedin.com/in/johan-rodriguez25/", 
+      "Linkedin" : "https://www.linkedin.com/in/johan-rodriguez25/",
+      "Blog": "https://0xjotarosecure.gitbook.io/0xjotarosecure-blog"
     }
  }
  ```
-  - 🌱 I’m currently learning **Big Data, Artificial Intelligence, Natural Language Processing and Prompt Engineering**
+  - 🌱 I’m currently learning **Big Data, Artificial Intelligence, pentesting and red team**
  <h3>
   🚀 Development
  </h3>
