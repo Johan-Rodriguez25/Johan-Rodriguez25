@@ -4,12 +4,11 @@
   “role” : “Software Dev and cybersecurity Student”,
   “data” : 
     { 
-      "Linkedin" : "https://www.linkedin.com/in/johan-rodriguez25/",
-      "Blog": "https://0xjotarosecure.gitbook.io/0xjotarosecure-blog"
+      "Linkedin" : "https://www.linkedin.com/in/johan-rodriguez25/"
     }
  }
  ```
-  - 🌱 I’m currently learning **Big Data, Artificial Intelligence, pentesting and red team**
+  - 🌱 I’m currently learning **Big Data, Artificial Intelligence, Pentesting and Red Team**
  <h3>
   🚀 Development
  </h3>
